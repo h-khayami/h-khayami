@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a PhD candidate in Electrical Engineering at the University of Maryland.
+I'm a PhD student in Electrical Engineering at the University of Maryland.
 
 ## 🔭 My Research
 
