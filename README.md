@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I'm studying PhD in Electrical Engineering at the University of Maryland. 
+- 🔭 I’m currently doing research on Human Activity Recognition systems for older adults at the Intelligent Assistive Machines Lab as part of the HCIL Lab. 
 <!--
 **h-khayami/h-khayami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
