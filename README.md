@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me👋
 
 I'm a PhD student in Electrical Engineering at the University of Maryland.
 
